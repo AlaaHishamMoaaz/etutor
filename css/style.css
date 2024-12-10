@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 * {
   margin: 0px;
   padding: 0px;
@@ -31,17 +33,17 @@
 
 @font-face {
   font-family: inter-regular;
-  src: url("/fonts/Inter/static/Inter_18pt-Regular.ttf");
+  src: url("fonts/Inter/static/Inter_18pt-Regular.ttf");
 }
 
 @font-face {
   font-family: inter-medium;
-  src: url("/fonts/Inter/static/Inter_18pt-Medium.ttf");
+  src: url("fonts/Inter/static/Inter_18pt-Medium.ttf");
 }
 
 @font-face {
   font-family: inter-semiBold;
-  src: url("/fonts/Inter/static/Inter_28pt-SemiBold.ttf");
+  src: url("fonts/Inter/static/Inter_28pt-SemiBold.ttf");
 }
 
 a {
