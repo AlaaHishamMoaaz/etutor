@@ -33,17 +33,17 @@
 
 @font-face {
   font-family: inter-regular;
-  src: url("fonts/Inter/static/Inter_18pt-Regular.ttf");
+  src: url("../fonts/Inter/static/Inter_18pt-Regular.ttf");
 }
 
 @font-face {
   font-family: inter-medium;
-  src: url("fonts/Inter/static/Inter_18pt-Medium.ttf");
+  src: url("../fonts/Inter/static/Inter_18pt-Medium.ttf");
 }
 
 @font-face {
   font-family: inter-semiBold;
-  src: url("fonts/Inter/static/Inter_28pt-SemiBold.ttf");
+  src: url("../fonts/Inter/static/Inter_28pt-SemiBold.ttf");
 }
 
 a {
